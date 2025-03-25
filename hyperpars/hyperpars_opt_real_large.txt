@@ -1,0 +1,81 @@
+[
+    {
+        "alpha_lm": 3.181609443405098,
+        "order_lm": 1
+    },
+    {
+        "layer_size_nn": 27,
+        "lr_nn": 0.00027830965948463527,
+        "drop_nn": 0.1656590043166946,
+        "n_epochs_nn": 282,
+        "b_size_nn": 22
+    },
+    {},
+    {
+        "layer_size_dr": 14,
+        "rep_size_dr": 22,
+        "lr_dr": 0.0005668243808200185,
+        "drop_dr": 0.1959806180155181,
+        "n_epochs_dr": 183,
+        "b_size_dr": 6
+    },
+    {
+        "alpha_sci": 1,
+        "layer_size_sci": 14,
+        "lr_sci": 0.00027795828929853106,
+        "n_epochs_sci": 266,
+        "b_size_sci": 11,
+        "m_sci": 6,
+        "layer_size_scinn": 14,
+        "lr_scinn": 1.2135164030911656e-05,
+        "n_epochs_scinn": 236
+    },
+    {
+        "layer_size_bae": 14,
+        "rep_size_bae": 4,
+        "drop_bae": 0.04583225217658063,
+        "lr_bae": 0.00013473049451278703,
+        "n_epochs_bae": 202,
+        "b_size_bae": 22,
+        "alpha_bae": 4.488256001525574,
+        "m_scw": 5,
+        "alpha_scw": 4.589082354403623,
+        "order_scw": 1
+    },
+    {
+        "n_estimators": 116,
+        "min_samples_leaf": 1
+    },
+    {
+        "layer_size_bae": 10,
+        "rep_size_bae": 10,
+        "drop_bae": 0.04422262753032918,
+        "lr_bae": 0.00012597198036676222,
+        "n_epochs_bae": 222,
+        "b_size_bae": 11,
+        "alpha_bae": 3.595240722151725,
+        "m_scw": 5,
+        "alpha_scw": 3.0523789479930583,
+        "order_scw": 1,
+        "n_estimators": 76,
+        "min_samples_leaf": 5
+    },
+    {
+        "n_estimators": 328,
+        "min_samples_leaf": 1
+    },
+    {
+        "layer_size_bae": 10,
+        "rep_size_bae": 7,
+        "drop_bae": 0.14616751777571843,
+        "lr_bae": 0.0008281051661424721,
+        "n_epochs_bae": 102,
+        "b_size_bae": 11,
+        "alpha_bae": 1.9209376793292918,
+        "m_scw": 5,
+        "alpha_scw": 4.246720949610992,
+        "order_scw": 1,
+        "n_estimators": 372,
+        "min_samples_leaf": 10
+    }
+]
